@@ -1,0 +1,36 @@
+{
+  "name": "nlink",
+  "version": "1.0.0",
+  "description": "sistema encurtador de urls",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Netyul/nlink.git"
+  },
+  "keywords": [
+    "shortenurl",
+    "url",
+    "curtas"
+  ],
+  "author": "Jefte Amorim da Costa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JefteCosta/nlink/issues"
+  },
+  "homepage": "https://github.com/JefteCosta/nlink#readme",
+  "dependencies": {
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "7.30.0",
+    "eslint-config-next": "11.0.1"
+  }
+}

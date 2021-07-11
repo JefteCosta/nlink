@@ -1,2 +1,2 @@
-# nlink
-sistema de criação de links curtos
+# nshortenurl e nlink
+sistema de encurtamento de url criado em nextjs e mysql
